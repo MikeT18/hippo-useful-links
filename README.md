@@ -1,1 +1,13 @@
-# Things we use when we work with clients - standing on the shoulder of giants
+# Useful things to help get the job done
+
+Stock Photos (free and legal)
+
+Stock Videos (free and legal)
+
+Video editing software (free)
+
+Roadmap software
+
+Research
+
+Prototyping
